@@ -1,0 +1,30 @@
+.start {
+    background-color: rgb(94, 94, 250);
+    color: white;
+    border-radius: 12px;
+    position: absolute;
+    top: 100%; left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+}
+
+.Time p {
+    float: left;
+    font-size: 20px;
+}
+
+.scores {
+    background-color: rgb(94, 94, 250);
+    color: white;
+    border-radius: 12px;
+    float: right;
+    font-size: 20px;
+}
+
+.startingContent {
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 25px;
+    font-size: 20px;
+}
